@@ -20,9 +20,9 @@ draw_self();
 /// @DnDAction : YoYo Games.Drawing.Draw_Sprite_Transformed
 /// @DnDVersion : 1
 /// @DnDHash : 52C559BF
-/// @DnDArgument : "x" "x +4"
-/// @DnDArgument : "y" "y +6"
+/// @DnDArgument : "x" "x + 6"
+/// @DnDArgument : "y" "y + 6"
 /// @DnDArgument : "xscale" "armaEscala"
 /// @DnDArgument : "rot" "armaAngulo"
 /// @DnDArgument : "sprite" "arma.sprite"
-draw_sprite_ext(arma.sprite, 0, x +4, y +6, armaEscala, 1, armaAngulo, $FFFFFF & $ffffff, 1);
+draw_sprite_ext(arma.sprite, 0, x + 6, y + 6, armaEscala, 1, armaAngulo, $FFFFFF & $ffffff, 1);
