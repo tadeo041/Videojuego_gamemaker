@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_Zombik_runIZQ_Kitaro",
+  "name": "spr_ZombiK_RunIZQ",
   "bbox_bottom": 22,
   "bbox_left": 0,
   "bbox_right": 16,
@@ -28,14 +28,14 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Zombi Kitao",
-    "path": "folders/Sprites/Enemigos/Zombi Compañeros 3 \"A\"/Zombi Kitao.yy",
+    "name": "Zombi Kitaro",
+    "path": "folders/Sprites/Enemigos/Zombi Compañeros 3 \"A\"/Zombi Kitaro.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_Zombik_runIZQ_Kitaro",
+    "name": "spr_ZombiK_RunIZQ",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -57,10 +57,10 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e76373ae-6249-466b-b0e2-1fa736a8ca78","path":"sprites/spr_Zombik_runIZQ_Kitaro/spr_Zombik_runIZQ_Kitaro.yy",},},},"Disabled":false,"id":"462651e0-36a7-41de-8f10-c29fbf24863e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"0d858dc8-2711-40d1-8fad-2007af88abd0","path":"sprites/spr_Zombik_runIZQ_Kitaro/spr_Zombik_runIZQ_Kitaro.yy",},},},"Disabled":false,"id":"d9eabfb3-e458-4b7e-8ac4-d3556bf55053","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"39df95f5-e608-4434-9275-4c14552b9657","path":"sprites/spr_Zombik_runIZQ_Kitaro/spr_Zombik_runIZQ_Kitaro.yy",},},},"Disabled":false,"id":"9a7f4c5c-bafe-4d39-94df-e5d5809afd3c","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"87fb9533-bcda-4c29-9d76-1c2df7b9a3c9","path":"sprites/spr_Zombik_runIZQ_Kitaro/spr_Zombik_runIZQ_Kitaro.yy",},},},"Disabled":false,"id":"addd5603-e1ae-46ce-924c-528b0c4e3f2d","IsCreationKey":false,"Key":3.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e76373ae-6249-466b-b0e2-1fa736a8ca78","path":"sprites/spr_ZombiK_RunIZQ/spr_ZombiK_RunIZQ.yy",},},},"Disabled":false,"id":"462651e0-36a7-41de-8f10-c29fbf24863e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"0d858dc8-2711-40d1-8fad-2007af88abd0","path":"sprites/spr_ZombiK_RunIZQ/spr_ZombiK_RunIZQ.yy",},},},"Disabled":false,"id":"d9eabfb3-e458-4b7e-8ac4-d3556bf55053","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"39df95f5-e608-4434-9275-4c14552b9657","path":"sprites/spr_ZombiK_RunIZQ/spr_ZombiK_RunIZQ.yy",},},},"Disabled":false,"id":"9a7f4c5c-bafe-4d39-94df-e5d5809afd3c","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"87fb9533-bcda-4c29-9d76-1c2df7b9a3c9","path":"sprites/spr_ZombiK_RunIZQ/spr_ZombiK_RunIZQ.yy",},},},"Disabled":false,"id":"addd5603-e1ae-46ce-924c-528b0c4e3f2d","IsCreationKey":false,"Key":3.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
