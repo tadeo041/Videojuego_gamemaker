@@ -90,6 +90,7 @@
     {"name":"Vida","order":3,"path":"folders/Sprites/Power_ups/Vida.yy",},
     {"name":"SpriteCam","order":10,"path":"folders/Sprites/SpriteCam.yy",},
     {"name":"Tile Sets","order":20,"path":"folders/Tile Sets.yy",},
+    {"name":"Vida","order":24,"path":"folders/Objetos/Vida.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_empezar","order":4,"path":"objects/obj_empezar/obj_empezar.yy",},
