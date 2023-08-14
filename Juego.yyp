@@ -214,7 +214,6 @@
     {"id":{"name":"spr_Zombik_RunARB_Kitaro","path":"sprites/spr_Zombik_RunARB_Kitaro/spr_Zombik_RunARB_Kitaro.yy",},},
     {"id":{"name":"obj_colisionN1","path":"objects/obj_colisionN1/obj_colisionN1.yy",},},
     {"id":{"name":"Titulo","path":"fonts/Titulo/Titulo.yy",},},
-    {"id":{"name":"Room13","path":"rooms/Room13/Room13.yy",},},
     {"id":{"name":"spr_Player_MR","path":"sprites/spr_Player_MR/spr_Player_MR.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"spr_Cursor1","path":"sprites/spr_Cursor1/spr_Cursor1.yy",},},
@@ -306,7 +305,6 @@
     {"roomId":{"name":"Nivel2","path":"rooms/Nivel2/Nivel2.yy",},},
     {"roomId":{"name":"Nivel0","path":"rooms/Nivel0/Nivel0.yy",},},
     {"roomId":{"name":"Nivel1","path":"rooms/Nivel1/Nivel1.yy",},},
-    {"roomId":{"name":"Room13","path":"rooms/Room13/Room13.yy",},},
     {"roomId":{"name":"Historieta_final","path":"rooms/Historieta_final/Historieta_final.yy",},},
   ],
   "TextureGroups": [
