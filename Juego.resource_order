@@ -17,6 +17,8 @@
     {"name":"Cursor","order":3,"path":"folders/Objetos/Cursor.yy",},
     {"name":"Enemigos","order":19,"path":"folders/Objetos/Enemigos.yy",},
     {"name":"Zombies","order":1,"path":"folders/Objetos/Enemigos/Zombies.yy",},
+    {"name":"Zombi Compañero","order":3,"path":"folders/Objetos/Enemigos/Zombies/Zombi Compañero.yy",},
+    {"name":"Zombi Normal","order":2,"path":"folders/Objetos/Enemigos/Zombies/Zombi Normal.yy",},
     {"name":"Menu flotante","order":18,"path":"folders/Objetos/Menu flotante.yy",},
     {"name":"Datos curiosos","order":1,"path":"folders/Objetos/Menu flotante/Datos curiosos.yy",},
     {"name":"Musica","order":11,"path":"folders/Objetos/Musica.yy",},
@@ -91,8 +93,6 @@
     {"name":"Vida","order":3,"path":"folders/Sprites/Power_ups/Vida.yy",},
     {"name":"SpriteCam","order":10,"path":"folders/Sprites/SpriteCam.yy",},
     {"name":"Tile Sets","order":20,"path":"folders/Tile Sets.yy",},
-    {"name":"Zombi Normal","order":2,"path":"folders/Objetos/Enemigos/Zombies/Zombi Normal.yy",},
-    {"name":"Zombi Compañero","order":3,"path":"folders/Objetos/Enemigos/Zombies/Zombi Compañero.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_empezar","order":4,"path":"objects/obj_empezar/obj_empezar.yy",},
