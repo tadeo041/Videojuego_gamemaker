@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Zombies",
-    "path": "folders/Objetos/Enemigos/Zombies.yy",
+    "name": "Zombi Compañero",
+    "path": "folders/Objetos/Enemigos/Zombies/Zombi Compañero.yy",
   },
   "parentObjectId": null,
   "persistent": false,
