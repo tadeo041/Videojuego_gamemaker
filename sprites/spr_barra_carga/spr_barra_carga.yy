@@ -35,7 +35,7 @@
   "origin": 0,
   "parent": {
     "name": "Bara de carga",
-    "path": "folders/Sprites/Bara de carga.yy",
+    "path": "folders/Sprites/Armas/Bara de carga.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
