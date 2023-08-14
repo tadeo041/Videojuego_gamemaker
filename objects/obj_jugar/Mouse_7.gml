@@ -3,7 +3,3 @@ if texto == "jugar"{
 	audio_stop_all();
 }
 
-
-
-
-
